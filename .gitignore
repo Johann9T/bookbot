@@ -1,1 +1,3 @@
 /books
+git rm -r --cached books
+git commit -m "Ignore /books directory"
